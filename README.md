@@ -1,1 +1,1 @@
-# adinkra-symbols-classification-
+# adinkra-symbols-classification
